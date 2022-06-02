@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ornI9xIRg9WS8t5NkfNXobbMCgqo4Qn6pW/CwzEWwtTf3ymF4c73E8bClmtXVoh1H0Lc5t9wr0Hx77aTNE7otw==",
+  "success": true,
+  "projectFilePath": "C:\\Weather\\WeatherApp\\MyWeatherAppSln\\MyWeatherApp\\MyWeatherApp.iOS\\MyWeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
