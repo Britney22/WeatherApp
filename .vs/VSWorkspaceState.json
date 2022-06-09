@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyWeatherAppSln",
+    "\\MyWeatherAppSln\\MyWeatherApp\\MyWeatherApp"
   ],
+  "SelectedNode": "\\MyWeatherAppSln\\MyWeatherAppSln.sln",
   "PreviewInSolutionExplorer": false
 }

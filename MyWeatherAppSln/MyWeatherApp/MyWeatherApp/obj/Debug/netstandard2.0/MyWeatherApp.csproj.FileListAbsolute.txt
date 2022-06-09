@@ -1,0 +1,15 @@
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\bin\Debug\netstandard2.0\MyWeatherApp.deps.json
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\bin\Debug\netstandard2.0\MyWeatherApp.dll
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\bin\Debug\netstandard2.0\MyWeatherApp.pdb
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MyWeatherApp.csproj.AssemblyReference.cache
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MyWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MyWeatherApp.AssemblyInfoInputs.cache
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MyWeatherApp.AssemblyInfo.cs
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MyWeatherApp.csproj.CoreCompileInputs.cache
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MyWeatherApp.dll
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\refint\MyWeatherApp.dll
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\MyWeatherApp.pdb
+C:\Weather\WeatherApp\MyWeatherAppSln\MyWeatherApp\MyWeatherApp\obj\Debug\netstandard2.0\ref\MyWeatherApp.dll
