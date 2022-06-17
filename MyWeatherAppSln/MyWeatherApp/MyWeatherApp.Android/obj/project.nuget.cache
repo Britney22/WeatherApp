@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "T62vsrb7HefEQAX+Z0XKeEh6r7faqaMxJbxRiyDZUk+X/dl1mnrnxlx3dyqBivlJ79boN14vEADTPdiwQZaWZA==",
+  "dgSpecHash": "EkMZvcTinS2FGjY+mPqq6hCUfJwTOdXvfbJyExx6eFAZJFili2KGfxVDlfEKKGilGkjs1UlIwd2PgrBlRocoAQ==",
   "success": true,
   "projectFilePath": "C:\\Weather\\WeatherApp\\MyWeatherAppSln\\MyWeatherApp\\MyWeatherApp.Android\\MyWeatherApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
